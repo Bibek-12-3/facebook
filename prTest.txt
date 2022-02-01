@@ -1,6 +1,9 @@
 I am  from dev checking the PR.
+<<<<<<< HEAD
 h
 fghf
 hf
 hf
 hf  iih
+=======
+>>>>>>> parent of a4be982 (my new test)
